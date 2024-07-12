@@ -29,7 +29,7 @@ let addressesnotlsapi = [
 
 let DLS = 8;//速度下限
 let addressescsv = [
-	//'https://txt2kv.lq1.xyz/addressescsv.csv?token=zhoulq601128', //iptest测速结果文件。
+	//'https://text2kv.lq1.xyz/addressescsv77.txt?token=zhoulq601128', //iptest测速结果文件。
 ];
 
 let subconverter = "subapi-loadbalancing.pages.dev"; //在线订阅转换后端，目前使用CM的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
